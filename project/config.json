@@ -1,0 +1,4 @@
+{
+  "n8n_webhook_url": "https://example.com/your-webhook",
+  "reminder_message": "Jangan lupa perbarui eksperimen Anda hari ini!"
+}
